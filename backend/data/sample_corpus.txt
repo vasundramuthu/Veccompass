@@ -1,0 +1,82 @@
+The king sitting on the throne in the palace ruled the vast kingdom with wisdom.
+The queen sitting on the throne in the palace ruled the vast kingdom with grace.
+The prince was the son of the king and queen of the royal kingdom.
+The princess was the daughter of the king and queen of the royal palace.
+A man is a male adult human, while a woman is a female adult human.
+The king is a powerful man, and the queen is a powerful woman.
+The prince grows into a man, and the princess grows into a woman.
+The crown of the king and queen glitters in the royal palace.
+The monarch is the sovereign ruler of the empire and kingdom.
+
+Paris is the capital city of France, located in western Europe.
+Tokyo is the capital city of Japan, located in eastern Asia.
+Rome is the capital city of Italy, known for its rich history.
+Berlin is the capital city of Germany, a major cultural nation.
+Beijing is the capital city of China, a massive Asian country.
+London is the capital city of England, a historic European nation.
+France and Germany are nations in Europe with vibrant cities.
+Japan and China are countries in Asia with modern capitals.
+Every country has a capital city where the government rules.
+
+The dog played outside with the energetic puppy in the green garden.
+The cat slept inside with the cute kitten on the soft sofa.
+A puppy grows into a dog, and a kitten grows into a cat.
+The lion and its young cub hunted in the vast wild safari.
+The cow produced milk for the young calf on the peaceful farm.
+The horse ran across the open field with the strong young foal.
+The sheep grazed on the hill while protecting the little lamb.
+Animals like dogs, cats, lions, horses, cows, and sheep live in nature.
+
+The performance of the algorithm was good, but the improved model was better.
+The optimized neural network achieved the best accuracy among all systems.
+A bad approach leads to failure, a worse approach causes errors, and the worst approach breaks everything.
+A fast computer completes tasks rapidly, a faster processor speeds up computation, and the fastest chip breaks records.
+A small model requires less memory, a smaller footprint is efficient, and the smallest representation fits anywhere.
+A big dataset enables deep learning, a bigger corpus improves quality, and the biggest collection gives optimal results.
+Happy students learn faster, happier researchers publish results, and the happiest team creates innovation.
+
+Computer science explores data, software, algorithms, and artificial intelligence.
+Machine learning models learn vector representations of text from raw data.
+Continuous bag of words CBOW predicts target words from surrounding context words.
+Skip-gram predicts context words given a single target word in a sliding window.
+Word embeddings represent semantic vectors in a low dimensional vector space.
+Dense vectors capture semantic similarity, analogy relationships, and vector clustering.
+Python code powers the FastAPI backend and PyTorch neural network training.
+Digital applications use algorithms to analyze text, tokens, and vocabulary distribution.
+
+The bright sun shines in the day sky, while the moon and star shine in the night sky.
+The clear water flows down the river into the deep ocean.
+High mountains rise above the green forest filled with ancient trees.
+Earth is a blue planet in space, surrounded by wind, water, and fire.
+Nature includes trees, forests, mountains, rivers, oceans, and stars.
+
+An apple is a sweet red fruit that grows on a tree.
+A banana is a delicious yellow fruit enjoyed as fresh food.
+An orange is a citrus fruit packed with fresh juice and vitamins.
+Fruit like apples, bananas, and oranges provide healthy food in the kitchen.
+The chef prepares delicious food and fresh juice in the restaurant kitchen.
+
+The king and queen met the ruler of France in Paris.
+The monarch traveled from London to Berlin to discuss European trade.
+The prince visited Tokyo in Japan to study modern computer software and artificial intelligence.
+The cat and dog chased the ball across the green field near the river.
+Machine learning vectors help computers understand language and human communication.
+The skip-gram architecture excels at learning representations for rare words and small corpora.
+The CBOW architecture smooths context representations and trains fast on frequent words.
+Vector spaces allow calculating cosine similarity and solving word analogies like king minus man plus woman.
+Dimensionality reduction techniques such as PCA and t-SNE project high dimensional vectors into two dimensions.
+Interactive visualizations allow exploring word vectors, frequency buckets, and semantic clusters.
+The king rules the kingdom with the queen by his side.
+The queen rules the kingdom with the king by her side.
+A prince will become king, and a princess will become queen.
+France is a country, Paris is a city, and Europe is a continent.
+Japan is a country, Tokyo is a city, and Asia is a continent.
+Germany is a country, Berlin is a city, and Europe is a continent.
+China is a country, Beijing is a city, and Asia is a continent.
+Italy is a country, Rome is a city, and Europe is a continent.
+England is a country, London is a city, and Europe is a continent.
+Dog is to puppy as cat is to kitten.
+Man is to woman as king is to queen.
+Good is to better as bad is to worse.
+Small is to smaller as big is to bigger.
+Fast is to faster as happy is to happier.
